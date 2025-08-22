@@ -1,1 +1,2 @@
-# my-fitness-app
+# My Fitness App
+Aplikasi untuk tracking kebugaran pribadi.
